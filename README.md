@@ -21,4 +21,4 @@ This blog project is bulit with spring boot and react. Here, it's the front-end 
 
 ## Live Demo and More...
 
-[http://www.danyuezhang.com](http://www.danyuezhang.com/)
+[www.danyuezhang.com](http://www.danyuezhang.com/)
