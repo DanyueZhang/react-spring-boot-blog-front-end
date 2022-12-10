@@ -17,3 +17,8 @@ This blog project is bulit with spring boot and react. Here, it's the front-end 
 3. Connect to the back-end:
    
    Follow the instructions in [back-end part](https://github.com/DanyueZhang/react-spring-boot-blog-back-end)
+
+
+## Live Demo and More...
+
+[http://www.danyuezhang.com](http://www.danyuezhang.com/)
